@@ -4,9 +4,8 @@
 <img src="https://github.com/jkff00/PointCloudColorizeDemo/assets/94893280/5af2b248-11ff-4aa4-becc-52d0d03a20db" width="500px">
 
 ### Highly accurate drift-free SLAM algorithms && Comparison before and after optimization
-![image](https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/图片3.png)
 
-
+<img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/图片3.png" width="400" height="360">
 
 ### Comparison with SOTA algorithms including FAST-LIO2,HBA,LIO-SAM
 <img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/图片10.png" width="400" height="360"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/图片11.png" width="400" height="360"/>
