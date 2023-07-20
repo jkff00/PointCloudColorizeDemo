@@ -16,7 +16,7 @@
 <img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/denoise.png" width="400" height="250"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/GIF%202023-7-19%2013-58-32.gif" width="400" height="250"/>
 
 ###  Final color in indoor scene && the wall thickness
-<img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/img1.png" width="400" height="400"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/ours_plane_thick.png" width="400" height="400"/>
+<img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/img1.png" width="400" height="350"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/ours_plane_thick.png" width="400" height="350"/>
 
 
 
