@@ -13,8 +13,7 @@
 ### And the final map over 400m distances
 <img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/GIF%202023-7-20%2016-47-35.gif" width="400" height="300"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/slam/GIF%202023-7-20%2017-28-33.gif" width="400" height="300">
 ### Automatically culled out all the depth discontinuity edge noise in the SLAM front end
-<img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/denoise.png" width="400" height="250">
-<img src="https://github.com/jkff00/PointCloudColorizeDemo/raw/main/GIF%202023-7-19%2013-58-32.gif" width="400" height="250">
+<img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/denoise.png" width="400" height="250"><img src="https://github.com/jkff00/PointCloudColorizeDemo/raw/main/GIF%202023-7-19%2013-58-32.gif" width="400" height="250">
 
 ###  Final color in indoor scene && the wall thickness
 <img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/img1.png" width="400" height="350"><img src="https://github.com/jkff00/PointCloudColorizeDemo/blob/main/project/color/ours_plane_thick.png" width="400" height="350"/>
